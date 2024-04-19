@@ -1,0 +1,15 @@
+/home/pankratov/repo/tut/obj/Debug/net6.0/tut.csproj.AssemblyReference.cache
+/home/pankratov/repo/tut/obj/Debug/net6.0/tut.GeneratedMSBuildEditorConfig.editorconfig
+/home/pankratov/repo/tut/obj/Debug/net6.0/tut.AssemblyInfoInputs.cache
+/home/pankratov/repo/tut/obj/Debug/net6.0/tut.AssemblyInfo.cs
+/home/pankratov/repo/tut/obj/Debug/net6.0/tut.csproj.CoreCompileInputs.cache
+/home/pankratov/repo/tut/bin/Debug/net6.0/tut
+/home/pankratov/repo/tut/bin/Debug/net6.0/tut.deps.json
+/home/pankratov/repo/tut/bin/Debug/net6.0/tut.runtimeconfig.json
+/home/pankratov/repo/tut/bin/Debug/net6.0/tut.dll
+/home/pankratov/repo/tut/bin/Debug/net6.0/tut.pdb
+/home/pankratov/repo/tut/obj/Debug/net6.0/tut.dll
+/home/pankratov/repo/tut/obj/Debug/net6.0/refint/tut.dll
+/home/pankratov/repo/tut/obj/Debug/net6.0/tut.pdb
+/home/pankratov/repo/tut/obj/Debug/net6.0/tut.genruntimeconfig.cache
+/home/pankratov/repo/tut/obj/Debug/net6.0/ref/tut.dll
